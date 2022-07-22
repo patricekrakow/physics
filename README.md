@@ -24,7 +24,7 @@ $$ \frac{\mathrm{d}}{\mathrm{dt} } ( \frac{1}{2} m \dot x^2 ) = F \dot x $$
 
 $$ \frac{1}{2} m \dot x^2 = \int F \dot x\,dt $$
 
-Si $ F $ est une constante, alors
+Si $F$ est une constante, alors
 
 $$ \frac{1}{2} m \dot x^2 = F \int \dot x\,dt $$
 
